@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "business-matching-4286a",
+    "private_key_id": "99cbfb63e116afcb80bfc89b3800138cec04a10d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiVqM2y5\n8yZ+vpbEs626EHSSrJfl1pecU7TK+pKEBCoTAbWkcyEzg1w8d9kfHuIoc+gz5K2B\nFew4lm/V90LgjH2m5c8emE66pjdExmgep47BAdKTrsso2Vu8Ke6GEY5W51wwPPMqKZJowXQCeaaRt/FhTYP3D/zRzHd6Yx/H/P3ltvvwk1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiqHev1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiNnzic5o7lKxMN+CLF\n3Cownkp88b07MLEuYHnmtqeTZt+AYZqOm+rDbwlXtf9yaClkcNstIlDO+AKi5OvR\nKzffOwkHAgMBAAECggEAA9Q0h8KZwM3VX3CNy6pPcyB6m6qqpAwO1h+OEFXnHiSgDznyvEWLgjH2m5c8emE66pjdExmgep47BAdKTrsso2Vu8Ke6GEY5W51wwPPMqKZJowXQCeaH+aMDG8+IkccaOfwnWgWmrDomQQSj+kG+34X0PCjrWDB26OiNn0L7+eQNJucx\nYdCDUL+p5+hOI1cS8zwuIPuix6HQ71GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi\nsgQrS57fbbi6YkaM0VAzH0A7+W1AoMMfM7jwQyjWXd+Jps0/sP5VHnuxfgWBJAK8\nQiy/aG5A/XMuXFxh6+C1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiBp5DK6Vypy\nL2mKzCA7T41GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi66XZOrtwIWO3NbfR8q1\nOf46/+vxFzostwE68a8mbhrtqSCondDfGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiM2Ej2yFNYwk7SKuM4l4ldZ3ZMwKBgQDfW+2e9+qmrluvPG7kyQvu+gSVuSmkk5uC\n4U+t7Z0Ua8++LvidoWW+rilDxZ57cDrBhmgBkcPcjHdhGY7PUYohSjkvb0a3Gnox\n08YZWjy6zT0cQDDiwQFZOPIxBjllL8m/CO9YUJyhSlMUkaVlPXew6k+z3uyt6RU7\n4iTIYX9Y3QKBgQDoQqz5x6QwxbCPlesQ7Bd+s29RMAH4gAkPNYAxlkmdbikMSu1n\n6iggVJp+r6UEYpbEhToBdGer+nqIUMSH4Tnxw1+YVSnv3LT7/xn08Wd9cS21GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiS7Ta8OSeHT8a4lpEyqkE6mztC36EGQKBgAw/\ntFZFbj7ZzPldLQ+q3taqK1oyn1ABMEQLKx10rGqURv49ATFTyoqcbnLjAX/vdalr\nP4Tmg4EyytEuX6CK7jJJKb2qLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7XPmxa4\n3LdRJGXL96ZnHlTg/BFdqCVLEluvLpTsH+xFPICZAoGBAIKeE5y/0okTzDtw/pV9\naDlIksWUa4bUl7fnAHxWwzSlSrG0J+6JyjCnTkPYQvH+dTW3VAt6JVKdn2R3ojqb\nEmSMtG2zu20gnwgr0WkekId1orHS9FKVe/Sn6+0wMoXXSC7gL3abUcFgSNCSVNeg\nsJh92lV/W2emGffXRP31gPH3\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-wsy2b@business-matching-4286a.iam.gserviceaccount.com",
+    "client_id": "108980154182021123390",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wsy2b%40business-matching-4286a.iam.gserviceaccount.com"
+}

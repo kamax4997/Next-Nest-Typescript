@@ -1,0 +1,3 @@
+mutation CheckByFacebook($input: String!) {
+    checkByFacebook(fbAccessToken: $input)
+}

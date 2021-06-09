@@ -1,0 +1,4 @@
+query SayHello {
+	__typename,
+    sayHello
+}
